@@ -1,8 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Programmers!");
-Console.WriteLine("Hello, C# Programmers!");
+﻿using System;
 
-
-Console.Write("First");
-Console.Write("Second");
+namespace HelloWorld
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
 

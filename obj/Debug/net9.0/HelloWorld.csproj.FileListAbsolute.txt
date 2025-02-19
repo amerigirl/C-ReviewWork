@@ -12,3 +12,4 @@ C:\Users\ameri\dotnet-course-code\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.
 C:\Users\ameri\dotnet-course-code\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
 C:\Users\ameri\dotnet-course-code\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
 C:\Users\ameri\dotnet-course-code\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+C:\Users\ameri\dotnet-course-code\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
