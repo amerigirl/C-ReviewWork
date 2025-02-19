@@ -29,7 +29,7 @@ namespace HelloWorld
 
 
             // 2 byte (16 bit) unsigned, where signed means it can be negative
-            ushort myUshort = 65535;
+            ushort myUshort =  65535;
 
             // 2 byte (16 bit) signed, where signed means it can be negative
             short myShort = -32768;
@@ -54,9 +54,9 @@ namespace HelloWorld
             decimal myDecimal = 0.751m;
             decimal mySecondDecimal = 0.75m;
 
-            // Console.WriteLine(myFloat - mySecondFloat);
-            // Console.WriteLine(myDouble - mySecondDouble);
-            // Console.WriteLine(myDecimal - mySecondDecimal);
+            Console.WriteLine(myFloat - mySecondFloat);
+            Console.WriteLine(myDouble - mySecondDouble);
+            Console.WriteLine(myDecimal - mySecondDecimal);
 
 
 
